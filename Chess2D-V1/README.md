@@ -1,0 +1,1 @@
+Basic Implementation of Chess in 2D, from scratch and using C++ for the backend.
